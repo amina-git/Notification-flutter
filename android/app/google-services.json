@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437604411379",
+    "project_id": "seaal-project",
+    "storage_bucket": "seaal-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437604411379:android:09c2da1efe6361c8acd486",
+        "android_client_info": {
+          "package_name": "com.testexam.notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtDrqHzyWLnEHjNdwZTrvEs4CZyzo04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
